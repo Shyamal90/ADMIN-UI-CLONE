@@ -39,7 +39,7 @@ function User() {
     const [searchResult, setSearchResult] = useState("");
 
     useEffect(() => {
-        if (searchResult.length !== 0) {
+        if (searchResult.length > 0) {
             getFilterData(searchResult)
         } else if (searchResult.length === 0) {
             getData()
