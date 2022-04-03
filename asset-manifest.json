@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ADMIN-UI-CLONE/static/css/main.e653336e.css",
+    "main.js": "/ADMIN-UI-CLONE/static/js/main.e476c46b.js",
+    "index.html": "/ADMIN-UI-CLONE/index.html",
+    "main.e653336e.css.map": "/ADMIN-UI-CLONE/static/css/main.e653336e.css.map",
+    "main.e476c46b.js.map": "/ADMIN-UI-CLONE/static/js/main.e476c46b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e653336e.css",
+    "static/js/main.e476c46b.js"
+  ]
+}
